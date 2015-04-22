@@ -9,4 +9,4 @@ Protect your home with webcam that will auto detect motion under Ubuntu Linux
 
 
 #Copy the file from local to your NAS/VHOST where you need to see them
-* I run a cron for use rsync for this
+* I run a cron for this and use rsync for this
