@@ -8,5 +8,5 @@ Protect your home with webcam that will auto detect motion under Ubuntu Linux
 * Configure motion to your needs using to config file ($sudo /etc/motion.conf).
 
 
-#Copy the file from local to your NAS/VHOST where you need to see them
+#Copy the files from local to your NAS/VHOST where you need to see them
 * I run a cron for this and use rsync for this
