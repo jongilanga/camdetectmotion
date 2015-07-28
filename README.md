@@ -14,4 +14,6 @@ Protect your home with webcam that will auto detect motion under Ubuntu Linux
 
 
 #Copy the files from local to your NAS/VHOST where you need to see them
-* I run a cron for this and use rsync for this
+* I run a cron for this and use rsync
+* (*/5 * * * * rsync -rtvl /var/motion/* user@myvhostServer:/var/www/motion/)
+* Setup up apache to see your files and lock it with htaccess
